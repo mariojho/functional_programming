@@ -8,5 +8,3 @@ var evensFromNumbers = _.filters(nubers, function(element){
   console.log(evensFromNumbers)
   
   // A new comment for the lodash
-  
-  
