@@ -6,5 +6,3 @@ var evensFromNumbers = _.filter(numbers, function(element){
   });
   
   console.log(evensFromNumbers)
-  
-  // A new comment for the lodash
